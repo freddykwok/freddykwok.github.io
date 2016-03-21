@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog/Podcast I Follow
-permalink: /blog&podcast/
+permalink: /following/
 ---
 
 Blog
