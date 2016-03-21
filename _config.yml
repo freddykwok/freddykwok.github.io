@@ -4,18 +4,17 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Freddy Kwok
+tagline:          'An Indie Developer'
+description:      
+url:              http://freddykwok.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Freddy Kwok'
+  url:            https://twitter.com/ferddy_kwok
 
 paginate:         5
 
@@ -24,3 +23,6 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-68209850-7
