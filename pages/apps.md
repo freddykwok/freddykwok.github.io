@@ -1,7 +1,7 @@
 ---
-layout: pages
+layout: page
 title: Apps I Use
-permalink: /Apps/
+permalink: /apps/
 ---
 
 I use a lot of apps for my productivity and entertainment.

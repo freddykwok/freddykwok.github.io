@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Services I Use to Help me Develop
-permalink: /Services/
+permalink: /services/
 ---
 
 1. Web App Database Server

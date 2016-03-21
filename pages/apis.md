@@ -1,7 +1,7 @@
 ---
 layout: page
 title: APIs Worth Noting
-permalink: /APIs/
+permalink: /api/
 ---
 
 Develop an app require many components. Fortunately, there are many APIs for different job, here are a list of note worthy API service. 
