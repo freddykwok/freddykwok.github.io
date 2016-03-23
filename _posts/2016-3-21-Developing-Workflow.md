@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Developing Workflow
-Permalink: /Developing-Workflow/
+date:   2016-03-21 23:04:23
+categories: [blog]
+tags: [begin]
+
 ---
 
 This is a blog to record my developing workflow.

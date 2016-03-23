@@ -1,28 +1,39 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-
-# Setup
-title:            Freddy Kwok
-tagline:          'An Indie Developer'
-description:      
-url:              http://freddykwok.github.io
-baseurl:          /
+# Site settings
+title: Freddy Kwok DevLogs
+description: 'A Log for an App Development Story'
+url: 'http://freddykwok.github.io'
+baseurl: '/'
+google_analytics: 'UA-68209850-7'
+disqus_shortname: 'freddykwok'
 
 author:
-  name:           'Freddy Kwok'
-  url:            https://twitter.com/ferddy_kwok
+  name: 'Freddy Kwok'
+  email: freddy@freddykwok.me
+  twitter_username: ferddy_kwok
+  facebook_username: 
+  github_username:  freddykwok
+  linkedin_username:  
 
-paginate:         5
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
 
-# Custom vars
-version:          2.1.0
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+highlighter: rouge
 
-github:
-  repo:           https://github.com/poole/hyde
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-68209850-7
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
