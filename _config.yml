@@ -38,15 +38,15 @@ opengraph:
 # For external links add external: true
 links:
   - title: About
-    url: /pages/about/index
+    url: /pages/about
   - title: APPS
-    url: /pages/apps/index
+    url: /pages/apps
   - title: API
-    url: /pages/api/index
+    url: /pages/api
   - title: Following
-    url: /pages/following/index  
+    url: /pages/following
   - title: Services
-    url: /pages/services/index 
+    url: /pages/services 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
