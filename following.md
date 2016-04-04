@@ -4,7 +4,7 @@ title: Followings
 permalink: /following/
 ---
 
-##### Blog
+### Blog
 
 1. [Daring Fireball](http://daringfireball.net)
 2. [MacStories](https://www.macstories.net)
@@ -12,7 +12,7 @@ permalink: /following/
 4. [Above Avalon](http://www.aboveavalon.com)
 
 
-##### Podcast
+### Podcast
 
 - Tech
 
@@ -47,6 +47,7 @@ permalink: /following/
 
 
 Updated April 4, 2016
+
 ---
 Original: March 20, 2016
 

@@ -4,7 +4,7 @@ title: References
 permalink: /references/
 ---
 
-###### Sites:
+### Sites:
 
 - [ProgrammableWeb](http://www.programmableweb.com)
 - [Stack Overflow](http://stackoverflow.com)
