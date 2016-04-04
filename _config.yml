@@ -46,8 +46,8 @@ links:
   - title: Following
     url: /pages/following/index  
   - title: Services
-    url: /pages/services/index  	
-	
+    url: /pages/services/index 
+
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
