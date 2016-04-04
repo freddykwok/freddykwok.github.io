@@ -9,61 +9,61 @@ Here is a list of apps that I use every day.
 
 
 
-# Productivity
+###### Productivity
 
 1. Automation
 
-	- [Workflow](https://workflow.is) - [iOS](https://itunes.apple.com/app/workflow-powerful-automation/id915249334)
+  - [Workflow](https://workflow.is) - [iOS](https://itunes.apple.com/app/workflow-powerful-automation/id915249334)
 
 2. Novel Writing
 
-	- [Ulysses](http://www.ulyssesapp.com) - [iOS](https://itunes.apple.com/app/ulysses-mobile/id950335311), [Mac](https://itunes.apple.com/app/ulysses/id623795237)
+  - [Ulysses](http://www.ulyssesapp.com) - [iOS](https://itunes.apple.com/app/ulysses-mobile/id950335311), [Mac](https://itunes.apple.com/app/ulysses/id623795237)
 
 3. Journaling
 
-	- [Day One](http://dayoneapp.com) - [iOS](https://itunes.apple.com/app/day-one-2-diary-+-journal/id1044867788), [Mac](https://itunes.apple.com/app/day-one/id1055511498)
+  - [Day One](http://dayoneapp.com) - [iOS](https://itunes.apple.com/app/day-one-2-diary-+-journal/id1044867788), [Mac](https://itunes.apple.com/app/day-one/id1055511498)
 
 4. Search
 
-	- [Google](https://www.google.com)
+  - [Google](https://www.google.com)
 
 5. Bookmarking
 
-	- [Pocket](https://getpocket.com)
-	- [Instapaper](https://www.instapaper.com)
-	- [Readability](https://www.readability.com)
+  - [Pocket](https://getpocket.com)
+  - [Instapaper](https://www.instapaper.com)
+  - [Readability](https://www.readability.com)
 
 6. Web Browsing
 
-- [Safari]()
-- [Chrome]()
-- [Firefox]()
-- [Opera]()
+  - [Safari]()
+  - [Chrome]()
+  - [Firefox]()
+  - [Opera]()
 
 7. Drafting
 
-- [Drafts](), naturally.
+  - [Drafts](), naturally.
 
 8. Receipts
 
-- [Scannable]()
-- [Evernote]()
-- [DevonThink Pro Office]()
+  - [Scannable]()
+  - [Evernote]()
+  - [DevonThink Pro Office]()
 
 9. Agreement Recording
 
-[OneNote]()
-[DevonThink Pro Office]()
+  - [OneNote]()
+  - [DevonThink Pro Office]()
 
 10. Referencing
 
-- [Papers]()
+  - [Papers]()
 
 11. PDF Management
 
-- [PDFpen]()
-- [PDFpen Pro]()
-- [PDF Expert]()
+  - [PDFpen]()
+  - [PDFpen Pro]()
+  - [PDF Expert]()
 
 12. Analytics
 
@@ -72,85 +72,83 @@ Here is a list of apps that I use every day.
 
 13. Cloud Storage
 
-- [OneDrive]()
-- [iCloud Drive]()
-- [Dropbox]()
-- [Amazon Drive]()
-- [Box]()
-- [Google Drive]()
+  - [OneDrive]()
+  - [iCloud Drive]()
+  - [Dropbox]()
+  - [Amazon Drive]()
+  - [Box]()
+  - [Google Drive]()
 
 14. Task Management
 
-[OmniFocus]()
+  - [OmniFocus]()
 
 15. Time Tracking
 
-- [Hours]()
-- [RescueTime]()
-- [Harvest]()
+  - [Hours]()
+  - [RescueTime]()
+  - [Harvest]()
 
 16. Home Management
 
-- [Home]()
-- [Hue]()
-- [Eve]()
+  - [Home]()
+  - [Hue]()
+  - [Eve]()
 
 17. Location Tracking
 
-- [Google Maps]()
+  - [Google Maps]()
 
 18. Fitness Tracking
 
-- [Apple Health]()
-- [myFitnessPal]()
+  - [Apple Health]()
+  - [myFitnessPal]()
 
 19. Money Tracking
 
-- [MoneyWiz]()
+  - [MoneyWiz]()
 
 20. Contacts Management
 
-- [Interacts]()
+  - [Interacts]()
 
 21. Email
 
-- [Spark]()
-- [Airmail]()
-- [Outlook]()
-- [CloudMagic]()
+  - [Spark]()
+  - [Airmail]()
+  - [Outlook]()
+  - [CloudMagic]()
 
 22. Communication
 
-- [WhatsApp]()
-- [Facebook Messenger]()
+  - [WhatsApp]()
+  - [Facebook Messenger]()
 
 22. Planning
 
-- [OmniPlan]()
-- [Project Libre]()
+  - [OmniPlan]()
+  - [Project Libre]()
 
 23. Scheduling
 
-- [Fantastical]()
-- [BusyCal]()
+  - [Fantastical]()
+  - [BusyCal]()
 
 24. Payment
 
-- [Apple Pay]()
-- [PayPal]()
+  - [Apple Pay]()
+  - [PayPal]()
 
 26. Password Management
 
-- [1Password]
+ - [1Password]
 
 27. Activities Tracking
 
-- [Fitbit]()
-- [Withings]()
-- [Under Armour]()
+  - [Fitbit]()
+  - [Withings]()
+  - [Under Armour]()
 
 
-
-
-
-Updated: March 20, 2016
+Updated: April 4, 2016
+Original: March 20, 2016
