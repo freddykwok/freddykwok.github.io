@@ -21,7 +21,7 @@ owner:
   instagram:      freddy.kwok
   dribbble:
   googleplus:     https://plus.google.com/116048776523856167787
-  disqus:         freddykwok
+  disqus:         'freddykwok'
   location:       
   google_analytics: 'UA-68209850-7'
   # Plug in your disqus shortname!
@@ -52,7 +52,7 @@ links:
 timezone:    America/New_York
 future:      true
 highlighter: pygments
-markdown:    kramdown
+markdown:    rouge
 
 kramdown:
   auto_ids: true

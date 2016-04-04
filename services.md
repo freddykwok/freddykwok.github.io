@@ -1,54 +1,61 @@
-s---
+---
 layout: page
 title: Services I Use to Help me Develop
 permalink: /services/
 ---
 
 1. Web App Database Server
+
 2. Web App Server
+
 3. Source Code Management
-2. Continuous Delivery
-[CodeShip]()
-[Jenkins]()
+
+4. Continuous Delivery
+
+- [CodeShip]()
+- [Jenkins]()
+
 5. Web Worker Server
 
-3. Exception Tracking
-[Sentey](https://getsentry.com/)
-4. Log Management
-[Papertrail](https://papertrailapp.com/L)
-4. Issue Tracking
-[Crashlytics]()
-2. Customer Support
-[Zendesk]()
-[Desk]()
+6. Exception Tracking
+- [Sentey](https://getsentry.com/)
+7. Log Management
+- [Papertrail](https://papertrailapp.com/L)
+8. Issue Tracking
+- [Crashlytics]()
+9. Customer Support
+- Zendesk]()
+- Desk]()
 
-3. Marketing Campaign
+10. Marketing Campaign
 
-4. Email List
-5. Webhooks
-6. Time Tracking
-[Hours]
-[RescueTime]
-[Harvest]
+11. Email List
 
-5. Advertising Revenues
-[Google Admobs]()
+12. Webhooks
 
-6. Advertising 
-[Google Adwords]
-[Twitter]
-[Facebook]
+13. Time Tracking
+- [Hours]()
+- [RescueTime]()
+- [Harvest]()
 
-7. Payment Processor
-[Strip]
-[Braintree]
+14. Advertising Revenues
+- [Google Admobs]()
 
-8. Assets Hosting
-9. Assets CDN
-10. Website Analytics
-11. Chat
+15. Advertising
+- [Google Adwords]()
+- [Twitter]()
+- [Facebook]()
 
+16. Payment Processor
+- [Strip]()*
+- [Braintree]()*
 
+17. Assets Hosting
 
+18. Assets CDN
+
+19. Website Analytics
+
+20. Chat
 
 Original: March 21, 2016

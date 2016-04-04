@@ -8,7 +8,7 @@ Develop an app require many components. Fortunately, there are many APIs for dif
 
 1. Location 
 
-[iOS Location Service]
+[iOS Location Service]()
 [Google Maps]()
 [Apple Maps]()
 [Foursquare]()
@@ -23,22 +23,23 @@ Develop an app require many components. Fortunately, there are many APIs for dif
 
 3. Weather
 
-[Weather Channel]()
-[Aeri Weather]
+[Weather Channel](https://www.wunderground.com/weather/api/)
+[Aerie Weather](http://www.aerisweather.com)
 
 4. Sign in
 
-[Digits]()
-[Facebook]()
+[Digits](https://get.digits.com)
+[Facebook](https://developers.facebook.com/docs/facebook-login)
 [Twitter]()
-[Goolge]()
+[Goolge](https://developers.google.com/identity/)
 
 
 5. Usage Tracking
 
-[Answered]()
+[Answers]()
 
 6. Log Management
+
 7. Issue Tracking
 
 [Crashlytics]()
@@ -46,6 +47,8 @@ Develop an app require many components. Fortunately, there are many APIs for dif
 8. Continuous Integration
 
 [Jenkins]()
+[CodeShip]()
+[GitLab CI]()
 
 9. Source Code Management
 
@@ -53,7 +56,12 @@ Develop an app require many components. Fortunately, there are many APIs for dif
 [GitLab]()
 
 10. Wiki
-[dokuWiki]
+- [dokuWiki]()
+- [GitBook]()
+
+11. Math
+- [MathJax](https://www.mathjax.org)
+- [JLaTeXMath](https://github.com/opencollab/jlatexmath)
 
 
 Original: March 21, 2016

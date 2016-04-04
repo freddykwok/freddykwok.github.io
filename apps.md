@@ -28,99 +28,126 @@ Here is a list of apps that I use every day.
 	[Google](https://www.google.com)
 
 5.  Bookmarking
+
 	- [Pocket](https://getpocket.com)
 	- [Instapaper](https://www.instapaper.com)
 	- [Readability](https://www.readability.com)
 
 6.  Web Browsing
 
-[Safari]()
-[Chrome]()
-[Firefox]()
-[Opera]()
+- [Safari]()
+- [Chrome]()
+- [Firefox]()
+- [Opera]()
 
 7. Take Drafts
 
-[Drafts]() 
-Naturally. 
+- [Drafts]() ,naturally. 
 
 8. Receipts
 
-[Scannable]()
-[Evernote]()
-[DevonThink Pro Office]()
+- [Scannable]()
+- [Evernote]()
+- [DevonThink Pro Office]()
 
-9. Agreement Recording
+9. Agreement Archiving
 
-[OneNote]()
-[DevonThink Pro Office]()
+- [OneNote]()
+- [DevonThink Pro Office]()
 
 10. Referencing
 
-[Papers]()
+- [Papers]()
 
 11. PDF Management
 
-[PDFpen]()
-[PDFpen Pro]()
-[PDF Expert]()
+- [PDF Expert]()
+- [PDFpen]()
+- [PDFpen Pro]()
 
 12. Analytics
 
-[Google Analytics]()
-[Fabric]()
+- [Google Analytics]()
+- [Fabric]()
 
 13. Cloud Storage
 
-[OneDrive]()
-[iCloud Drive]()
-[Dropbox]()
-[Amazon Drive]()
-[Box]()
-[Google Drive]()
+- [OneDrive]()
+- [iCloud Drive]()
+- [Dropbox]()
+- [Amazon Drive]()
+- [Box]()
+- [Google Drive]()
 
 14. Task Management
 
-[OmniFocus]()
+- [OmniFocus]()
+- [2Do]()
+- [Todoist]()
+
 15. Time Tracking
 
-[Hours]()
-[RescueTime]()
+- [Hours]()
+- [RescueTime]()
+- [Harvest]()
+
 16. Home Management
-[Home]
-[Hue]
-[Eve]
+
+- [Home]()
+- [Hue]()
+- [Eve]()
 
 17. Location Tracking
-[Google Maps]
+
+- [Google Maps]()
+
 18. Fitness Tracking
-[Apple Health]
+
+- [Apple Health]()
+
 19. Money Tracking
-[MoneyWiz]
+
+- [MoneyWiz]()
+
 20. Contacts Management
-[Interacts]
+
+- [Interacts]()
+
 21. Email
-[Spark]
-[Airmail]
-[Outlook]
-[CloudMagic]
+
+- [Spark]()
+- [Airmail]()
+- [Outlook]()
+- [CloudMagic]()
+
 22. Communication
-[WhatsApp]
-[Facebook Messenger]
+
+- [WhatsApp]()
+- [Facebook Messenger]()
+- 
 
 22. Planning
-[OmniPlan]
+
+- [OmniPlan]()
+
 23. Scheduling
-[Fantastical]
+
+- [Fantastical]()
+
 24. Payment
-[Apple Pay]
-[PayPal]
+
+- [Apple Pay]()
+- [PayPal]()
+
 26. Password Management
-[1Password]
+
+- [1Password]() 
+
 27. Activities Tracking
-[Fitbit]
-[Withings]
-[Under Armour]
+
+[Fitbit]()
+[Withings]()
+[Under Armour]()
 
 
 

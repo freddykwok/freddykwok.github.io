@@ -15,5 +15,5 @@ In the sea of information, the best way to keep track of thing is to write it do
 
 This blog will record how to use various API, third party services in web/iOS/Android Development. I would focus in iOS app development in the beginning and then expand to web then Android.
 
-You would see the list of app/services I use to help with my developing workflow and API I am going to teach myself in the [**Apps**](), [**APIs**]() and [**Services**]() pages.
+You would see the list of app/services I use to help with my developing workflow and API I am going to teach myself in the [**Apps**](http://freddykwok.github.io/apps/), [**APIs**](http://freddykwok.github.io/api/) and [**Services**](http://freddykwok.github.io/services) pages.
 
