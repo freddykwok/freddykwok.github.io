@@ -1,39 +1,78 @@
-# Site settings
-title: Freddy Kwok DevLogs
-description: 'A Log for an App Development Story'
-url: 'http://freddykwok.github.io'
-baseurl: '/'
-google_analytics: 'UA-68209850-7'
-disqus_shortname: 'freddykwok'
+title:            DevOps
+tagline:          Developmemnt and Operation Log by Freddy
+description: "Just a place to put my learning and devleopment progress on the Internet."
+# An awesome quote for your website
+quote:  "Develop. Grow. Prosper."
+canonical: freddykwok.github.io
+#Comment out the below line when pushing to gh-pages
+#url: http://10.42.0.1/_site 
+#For local development only. Comment it out.
+#file_end: .html
+#url: http://localhost:4000
 
-author:
-  name: 'Freddy Kwok'
-  email: freddy@freddykwok.me
-  twitter_username: ferddy_kwok
-  facebook_username: 
-  github_username:  freddykwok
-  linkedin_username:  
+# Owner/author information
+owner:
+  name:           Freddy Kwok
+  avatar:         avatar.jpg
+  bio:            
+  email:          
+  twitter:        freddy_kwok
+  github:         freddykwok
+  instagram:      freddy.kwok
+  dribbble:
+  googleplus:     https://plus.google.com/116048776523856167787
+  disqus:         freddykwok
+  location:       
+  google_analytics: 'UA-68209850-7'
+  # Plug in your disqus shortname!
 
-defaults:
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-        layout: 'post'
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
 
-# Build settings
-destination: _site
-paginate: 10
-permalink: /:year/:month/:day/:title/
-markdown: kramdown
-highlighter: rouge
+# Open Graph customization
+opengraph:
+  locale:           en_US
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /pages/about/index
+  - title: APPS
+    url: /pages/apps/index
+  - title: API
+    url: /pages/api/index
+  - title: Following
+    url: /pages/following/index  
+  - title: Services
+    url: /pages/services/index  	
+	
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+future:      true
+highlighter: pygments
+markdown:    kramdown
 
 kramdown:
-  # use Github Flavored Markdown
-  input: GFM
-  # do not replace newlines by <br>s
-  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
 
-gems: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+sass:
+    style: :compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:year/:month/:day/:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
