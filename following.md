@@ -1,4 +1,4 @@
----
+I---
 layout: page
 title: Followings
 permalink: /following/
@@ -14,7 +14,7 @@ permalink: /following/
 
 ### Podcast
 
-- Tech
+#### Tech
 
 1. [Accidental Tech Podcast](http://atp.fm)
 2. [Upgrade by Relay.FM](https://www.relay.fm/upgrade)
@@ -22,7 +22,7 @@ permalink: /following/
 4. [Connected by Relay.FM](https://www.relay.fm/connected)
 5. [Materials by Relay.FM](https://www.relay.fm/material)
 
-- Productivity
+#### Productivity
 
 1. [Canvas by Relay.FM](https://www.relay.fm/canvas)
 2. [Cortex by Relay.FM](https://www.relay.fm/cortex)
@@ -30,7 +30,7 @@ permalink: /following/
 4. [The Productivityist](http://productivityist.com)
 5. [The Productivity Show by Asian Efficiency](http://www.asianefficiency.com/podcast/)
 
-- Business
+#### Business
 
 1. [Diagnostics & Usage by 5by5](http://5by5.tv/dau)
 2. [Under the Radar by Relay.FM](https://www.relay.fm/radar)
@@ -38,7 +38,7 @@ permalink: /following/
 4. [Re/code Decode Hosted by Kara Fisher](https://player.fm/series/recode-decode-hosted-by-kara-swisher-88572)
 5. [Entrepreneurial Thought Leaders](http://etl.stanford.edu)
 
-- Science
+#### Science
 
 1. [Liftoff by Relay.FM](https://www.relay.fm/liftoff)
 2. [Startalk Radio](http://www.startalkradio.net)
