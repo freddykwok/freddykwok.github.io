@@ -10,6 +10,7 @@ permalink: /following/
 2. [MacStories](https://www.macstories.net)
 3. [SixColors](https://www.macstories.net)
 4. [Above Avalon](http://www.aboveavalon.com)
+5. [Wait But Why](http://waitbutwhy.com)
 
 
 ### Podcast
