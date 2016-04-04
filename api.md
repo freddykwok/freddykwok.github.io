@@ -4,56 +4,71 @@ title: APIs Worth Noting
 permalink: /api/
 ---
 
-Develop an app require many components. Fortunately, there are many APIs for different job, here are a list of note worthy API service. 
+Develop an app require many components. Fortunately, there are many APIs for different job, here are a list of note worthy API service.
 
-1. Location 
+1. Location
 
-[iOS Location Service]
-[Google Maps]()
-[Apple Maps]()
-[Foursquare]()
-[Yelps]()
+- [iOS Location Service]()
+- [Google Maps]()
+- [Apple Maps]()
+- [Foursquare]()
+- [Yelps]()
 
-2. Payment
-
-[Braintree]()
-[Stripe]()
-[Paddle]()
-[Apple Pay]()
-
-3. Weather
-
-[Weather Channel]()
-[Aeri Weather]
-
-4. Sign in
-
-[Digits]()
-[Facebook]()
-[Twitter]()
-[Goolge]()
+2. Activities
 
 
-5. Usage Tracking
 
-[Answered]()
+3. Payment
 
-6. Log Management
-7. Issue Tracking
+- [Braintree]()
+- [Stripe]()
+- [Paddle]()
+- [Apple Pay]()
 
-[Crashlytics]()
+4. Weather
 
-8. Continuous Integration
+- [Weather Channel]()
+- [Aerie Weather](http://www.aerisweather.com/develop/)
 
-[Jenkins]()
+5. Sign in
 
-9. Source Code Management
+- [Digits]()
+- [Facebook]()
+- [Twitter]()
+- [Goolge]()
+- [Microsoft]
 
-[GitHub]()
-[GitLab]()
+6. Usage Tracking
 
-10. Wiki
-[dokuWiki]
+- [Answers]()
+
+7. Log Management
+
+- [Papertrail](https://papertrailapp.com)
 
 
+8. Issue Tracking
+
+- [Crashlytics]()
+
+9. Continuous Integration
+
+- [Jenkins]()
+- [CodeShip]()
+
+10. Source Code Management
+
+- [GitHub]()
+- [GitLab]()
+
+11. Wiki
+
+- [dokuWiki]()
+
+12. Machine Learning
+
+- [Google TensorFlow]()
+- [Microsoft]()
+
+Updated: April 4, 2016
 Original: March 21, 2016
